@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Phuc dang branch dev
+=======
+tao xung dot
+>>>>>>> master
